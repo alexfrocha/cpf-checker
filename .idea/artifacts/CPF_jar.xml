@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CPF:jar">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="CPF.jar">
+      <element id="module-output" name="CPF" />
+    </root>
+  </artifact>
+</component>
